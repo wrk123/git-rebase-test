@@ -6,3 +6,6 @@ Testing git rebase
 - edit 3
 - edit 4
 - edit 5
+- edit 11
+- edit 12
+- edit 13
